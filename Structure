@@ -1,0 +1,20 @@
+order-service/
+│
+├── src/
+│   ├── controllers/
+│   │   └── orderController.js
+│   ├── models/
+│   │   └── orderModel.js
+│   ├── routes/
+│   │   └── orderRoutes.js
+│   ├── app.js
+│   └── server.js
+│
+├── tests/
+│   └── order.test.js
+│
+├── .env.example
+├── .gitignore
+├── Dockerfile
+├── package.json
+└── README.md
